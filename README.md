@@ -1,3 +1,2 @@
 # hello-world
-first-experience
-This is my first experience here. Im just experimenting here
+Im good at doing c projects, java projects, python projects etc
